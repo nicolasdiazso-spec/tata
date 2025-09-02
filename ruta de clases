@@ -1,0 +1,7 @@
+<?xmlversión="1.0"codificación="UTF-8"?>
+<ruta de clases>
+	<entrada de ruta de clase a excepción de="lastfmAPI2/" amable="origen" camino="origen"/>
+	<entrada de ruta de clase amable="estafa" camino="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<entrada de ruta de clase amable="biblioteca" camino="last.fm-bindings-0.1.1.jar"/>
+	<entrada de ruta de clase amable="producción" camino="papelera"/>
+</ruta de clases>
